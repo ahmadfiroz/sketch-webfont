@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>social-person-add</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M6,10 L6,8 C6,7.45 5.55,7 5,7 C4.45,7 4,7.45 4,8 L4,10 L2,10 C1.45,10 1,10.45 1,11 C1,11.55 1.45,12 2,12 L4,12 L4,14 C4,14.55 4.45,15 5,15 C5.55,15 6,14.55 6,14 L6,12 L8,12 C8.55,12 9,11.55 9,11 C9,10.45 8.55,10 8,10 L6,10 Z M15,5.9 C16.16,5.9 17.1,6.84 17.1,8 C17.1,9.16 16.16,10.1 15,10.1 C13.84,10.1 12.9,9.16 12.9,8 C12.9,6.84 13.84,5.9 15,5.9 Z M15,14.9 C17.97,14.9 21.1,16.36 21.1,17 L21.1,18.1 L8.9,18.1 L8.9,17 C8.9,16.36 12.03,14.9 15,14.9 Z M15,4 C12.79,4 11,5.79 11,8 C11,10.21 12.79,12 15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 Z M15,13 C12.33,13 7,14.34 7,17 L7,19 C7,19.55 7.45,20 8,20 L22,20 C22.55,20 23,19.55 23,19 L23,17 C23,14.34 17.67,13 15,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-person-add">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_social_person_add_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

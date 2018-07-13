@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation-arrow-back-ios</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M17.0018702,2.98500007 C16.5118702,2.49500007 15.7218702,2.49500007 15.2318702,2.98500007 L6.92187021,11.2950001 C6.53187021,11.6850001 6.53187021,12.3150001 6.92187021,12.7050001 L15.2318702,21.0150001 C15.7218702,21.5050001 16.5118702,21.5050001 17.0018702,21.0150001 C17.4918702,20.5250001 17.4918702,19.7350001 17.0018702,19.2450001 L9.76187021,11.9950001 L17.0118702,4.74500007 C17.4918702,4.26500007 17.4918702,3.46500007 17.0018702,2.98500007 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation-arrow-back-ios">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_navigation_arrow_back_ios_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

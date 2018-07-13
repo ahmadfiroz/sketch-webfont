@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation-check</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M8.79499994,15.8749929 L5.32499994,12.4049929 C5.13816842,12.2177402 4.88451758,12.1125072 4.61999994,12.1125072 C4.3554823,12.1125072 4.10183147,12.2177402 3.91499994,12.4049929 C3.52499994,12.7949929 3.52499994,13.4249929 3.91499994,13.8149929 L8.09499994,17.9949929 C8.48499994,18.3849929 9.11499994,18.3849929 9.50499994,17.9949929 L20.0849999,7.41499285 C20.4749999,7.02499285 20.4749999,6.39499285 20.0849999,6.00499285 C19.8981684,5.81774018 19.6445176,5.71250725 19.3799999,5.71250725 C19.1154823,5.71250725 18.8618315,5.81774018 18.6749999,6.00499285 L8.79499994,15.8749929 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation-check">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_navigation_check_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

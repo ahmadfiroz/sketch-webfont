@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>communication-mail</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M20,4 C21.1,4 22,4.9 22,6 L22,18 C22,19.1 21.1,20 20,20 L4,20 C2.9,20 2,19.1 2,18 L2.01,6 C2.01,4.9 2.9,4 4,4 L20,4 Z M4.5,6 C4.22385763,6 4,6.22385763 4,6.5 L4,17.5 C4,17.7761424 4.22385763,18 4.5,18 L19.5,18 C19.7761424,18 20,17.7761424 20,17.5 L20,6.5 C20,6.22385763 19.7761424,6 19.5,6 L4.5,6 Z M18.6817236,8.43127472 L12.4659623,12.3172245 C12.1846266,12.4930593 11.8153734,12.4930593 11.5340377,12.3172245 L5.31827639,8.43127472 C5.09848285,8.29060685 4.96660672,8.05322983 4.96660672,7.79826932 C4.96660672,7.20922264 5.60840386,6.85755297 6.10953313,7.16526393 L12,10.8490037 L17.8904669,7.16526393 C18.3915961,6.85755297 19.0333933,7.20922264 19.0333933,7.79826932 C19.0333933,8.05322983 18.9015172,8.29060685 18.6817236,8.43127472 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="communication-mail">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_communication_email_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

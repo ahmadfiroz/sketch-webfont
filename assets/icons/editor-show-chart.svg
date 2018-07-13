@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>editor-show-chart</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M4.18601572,17.7645162 L9.48601572,12.4645162 L12.7360157,15.7145162 C13.1460157,16.1245162 13.8060157,16.1045162 14.1860157,15.6745162 L21.3560157,7.60451621 C21.7060157,7.21451621 21.6860157,6.61451621 21.3160157,6.23451621 C20.9160157,5.83451621 20.2460157,5.84451621 19.8660157,6.27451621 L13.4760157,13.4545162 L10.1860157,10.1645162 C9.79601572,9.77451621 9.16601572,9.77451621 8.77601572,10.1645162 L2.68601572,16.2645162 C2.29601572,16.6545162 2.29601572,17.2845162 2.68601572,17.6745162 L2.77601572,17.7645162 C3.16601572,18.1545162 3.80601572,18.1545162 4.18601572,17.7645162 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="editor-show-chart">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_editor_show_chart_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

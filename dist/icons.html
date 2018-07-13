@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>icons</title>
+    <style>
+
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        .preview {
+            width: 100px;
+            display: inline-block;
+            margin: 10px;
+        }
+
+        .preview .inner {
+            display: inline-block;
+            width: 100%;
+            text-align: center;
+            background: #f5f5f5;
+            -webkit-border-radius: 3px 3px 0 0;
+            -moz-border-radius: 3px 3px 0 0;
+            border-radius: 3px 3px 0 0;
+        }
+
+        .preview .inner i {
+            line-height: 85px;
+            font-size: 40px;
+            color: #333;
+        }
+
+        .label {
+            display: inline-block;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 5px;
+            font-size: 10px;
+            font-family: Monaco, monospace;
+            color: #666;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            background: #ddd;
+            -webkit-border-radius: 0 0 3px 3px;
+            -moz-border-radius: 0 0 3px 3px;
+            border-radius: 0 0 3px 3px;
+            color: #666;
+        }
+
+        @font-face {
+    font-family: "icons";
+    src: url("./icons.eot?079c81336cebb44b72a4a031d7b9426c?#iefix") format("embedded-opentype"),
+url("./icons.woff2?079c81336cebb44b72a4a031d7b9426c") format("woff2"),
+url("./icons.woff?079c81336cebb44b72a4a031d7b9426c") format("woff"),
+url("./icons.ttf?079c81336cebb44b72a4a031d7b9426c") format("truetype"),
+url("./icons.svg?079c81336cebb44b72a4a031d7b9426c#icons") format("svg");
+}
+
+i {
+    line-height: 1;
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-action-account-circle:before {
+    content: "\f101";
+}
+.icon-action-bolt:before {
+    content: "\f102";
+}
+.icon-action-dashboard-Inactive:before {
+    content: "\f103";
+}
+.icon-action-dashboard-active:before {
+    content: "\f104";
+}
+.icon-action-delete:before {
+    content: "\f105";
+}
+.icon-action-done-all:before {
+    content: "\f106";
+}
+.icon-action-event:before {
+    content: "\f107";
+}
+.icon-action-help:before {
+    content: "\f108";
+}
+.icon-action-install:before {
+    content: "\f109";
+}
+.icon-action-label-add:before {
+    content: "\f10a";
+}
+.icon-action-label:before {
+    content: "\f10b";
+}
+.icon-action-language:before {
+    content: "\f10c";
+}
+.icon-action-lock:before {
+    content: "\f10d";
+}
+.icon-action-minimize:before {
+    content: "\f10e";
+}
+.icon-action-power-settings-new:before {
+    content: "\f10f";
+}
+.icon-action-pulse:before {
+    content: "\f110";
+}
+.icon-action-query-builder:before {
+    content: "\f111";
+}
+.icon-action-range:before {
+    content: "\f112";
+}
+.icon-action-schedule-start:before {
+    content: "\f113";
+}
+.icon-action-schedule-stop:before {
+    content: "\f114";
+}
+.icon-action-search:before {
+    content: "\f115";
+}
+.icon-action-settings:before {
+    content: "\f116";
+}
+.icon-action-shopping-basket:before {
+    content: "\f117";
+}
+.icon-action-subject:before {
+    content: "\f118";
+}
+.icon-action-timeline:before {
+    content: "\f119";
+}
+.icon-action-verified-user:before {
+    content: "\f11a";
+}
+.icon-action-work:before {
+    content: "\f11b";
+}
+.icon-alert-error:before {
+    content: "\f11c";
+}
+.icon-av-mic-none:before {
+    content: "\f11d";
+}
+.icon-av-playlist-add:before {
+    content: "\f11e";
+}
+.icon-av-repeat:before {
+    content: "\f11f";
+}
+.icon-communication-call-split:before {
+    content: "\f120";
+}
+.icon-communication-call:before {
+    content: "\f121";
+}
+.icon-communication-chat-bubble:before {
+    content: "\f122";
+}
+.icon-communication-mail:before {
+    content: "\f123";
+}
+.icon-content-add:before {
+    content: "\f124";
+}
+.icon-content-filter-list:before {
+    content: "\f125";
+}
+.icon-content-report-gmailerrorred:before {
+    content: "\f126";
+}
+.icon-content-waves:before {
+    content: "\f127";
+}
+.icon-device-data-usage:before {
+    content: "\f128";
+}
+.icon-editor-attach-money:before {
+    content: "\f129";
+}
+.icon-editor-bar-chart:before {
+    content: "\f12a";
+}
+.icon-editor-show-chart alt:before {
+    content: "\f12b";
+}
+.icon-editor-show-chart:before {
+    content: "\f12c";
+}
+.icon-file-attachment:before {
+    content: "\f12d";
+}
+.icon-image-add-a-photo:before {
+    content: "\f12e";
+}
+.icon-image-camera:before {
+    content: "\f12f";
+}
+.icon-image-edit:before {
+    content: "\f130";
+}
+.icon-maps-car:before {
+    content: "\f131";
+}
+.icon-maps-compass:before {
+    content: "\f132";
+}
+.icon-maps-delivery-shipping:before {
+    content: "\f133";
+}
+.icon-maps-directions-transit:before {
+    content: "\f134";
+}
+.icon-maps-directions:before {
+    content: "\f135";
+}
+.icon-maps-hotel:before {
+    content: "\f136";
+}
+.icon-maps-layers:before {
+    content: "\f137";
+}
+.icon-maps-local-bank:before {
+    content: "\f138";
+}
+.icon-maps-local-gas-station:before {
+    content: "\f139";
+}
+.icon-maps-local-pharmacy:before {
+    content: "\f13a";
+}
+.icon-maps-map-active:before {
+    content: "\f13b";
+}
+.icon-maps-map-inactive:before {
+    content: "\f13c";
+}
+.icon-maps-my-location:before {
+    content: "\f13d";
+}
+.icon-maps-place:before {
+    content: "\f13e";
+}
+.icon-maps-restaurant:before {
+    content: "\f13f";
+}
+.icon-navigation-arrow-back-ios:before {
+    content: "\f140";
+}
+.icon-navigation-arrow-down:before {
+    content: "\f141";
+}
+.icon-navigation-arrow-forward:before {
+    content: "\f142";
+}
+.icon-navigation-check:before {
+    content: "\f143";
+}
+.icon-navigation-close:before {
+    content: "\f144";
+}
+.icon-navigation-expand-more:before {
+    content: "\f145";
+}
+.icon-navigation-menu:before {
+    content: "\f146";
+}
+.icon-navigation-more-horiz:before {
+    content: "\f147";
+}
+.icon-social-facebook:before {
+    content: "\f148";
+}
+.icon-social-group:before {
+    content: "\f149";
+}
+.icon-social-instagram:before {
+    content: "\f14a";
+}
+.icon-social-notifications-none:before {
+    content: "\f14b";
+}
+.icon-social-person-add:before {
+    content: "\f14c";
+}
+.icon-social-person-disabled:before {
+    content: "\f14d";
+}
+.icon-social-person-done:before {
+    content: "\f14e";
+}
+.icon-social-person:before {
+    content: "\f14f";
+}
+.icon-social-twitter:before {
+    content: "\f150";
+}
+
+
+    </style>
+</head>
+<body>
+
+    <h1>icons</h1>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-account-circle"></i>
+            </span>
+            <br>
+            <span class='label'>action-account-circle</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-bolt"></i>
+            </span>
+            <br>
+            <span class='label'>action-bolt</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-dashboard-Inactive"></i>
+            </span>
+            <br>
+            <span class='label'>action-dashboard-Inactive</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-dashboard-active"></i>
+            </span>
+            <br>
+            <span class='label'>action-dashboard-active</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-delete"></i>
+            </span>
+            <br>
+            <span class='label'>action-delete</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-done-all"></i>
+            </span>
+            <br>
+            <span class='label'>action-done-all</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-event"></i>
+            </span>
+            <br>
+            <span class='label'>action-event</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-help"></i>
+            </span>
+            <br>
+            <span class='label'>action-help</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-install"></i>
+            </span>
+            <br>
+            <span class='label'>action-install</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-label-add"></i>
+            </span>
+            <br>
+            <span class='label'>action-label-add</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-label"></i>
+            </span>
+            <br>
+            <span class='label'>action-label</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-language"></i>
+            </span>
+            <br>
+            <span class='label'>action-language</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-lock"></i>
+            </span>
+            <br>
+            <span class='label'>action-lock</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-minimize"></i>
+            </span>
+            <br>
+            <span class='label'>action-minimize</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-power-settings-new"></i>
+            </span>
+            <br>
+            <span class='label'>action-power-settings-new</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-pulse"></i>
+            </span>
+            <br>
+            <span class='label'>action-pulse</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-query-builder"></i>
+            </span>
+            <br>
+            <span class='label'>action-query-builder</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-range"></i>
+            </span>
+            <br>
+            <span class='label'>action-range</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-schedule-start"></i>
+            </span>
+            <br>
+            <span class='label'>action-schedule-start</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-schedule-stop"></i>
+            </span>
+            <br>
+            <span class='label'>action-schedule-stop</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-search"></i>
+            </span>
+            <br>
+            <span class='label'>action-search</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-settings"></i>
+            </span>
+            <br>
+            <span class='label'>action-settings</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-shopping-basket"></i>
+            </span>
+            <br>
+            <span class='label'>action-shopping-basket</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-subject"></i>
+            </span>
+            <br>
+            <span class='label'>action-subject</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-timeline"></i>
+            </span>
+            <br>
+            <span class='label'>action-timeline</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-verified-user"></i>
+            </span>
+            <br>
+            <span class='label'>action-verified-user</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-action-work"></i>
+            </span>
+            <br>
+            <span class='label'>action-work</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-alert-error"></i>
+            </span>
+            <br>
+            <span class='label'>alert-error</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-av-mic-none"></i>
+            </span>
+            <br>
+            <span class='label'>av-mic-none</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-av-playlist-add"></i>
+            </span>
+            <br>
+            <span class='label'>av-playlist-add</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-av-repeat"></i>
+            </span>
+            <br>
+            <span class='label'>av-repeat</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-communication-call-split"></i>
+            </span>
+            <br>
+            <span class='label'>communication-call-split</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-communication-call"></i>
+            </span>
+            <br>
+            <span class='label'>communication-call</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-communication-chat-bubble"></i>
+            </span>
+            <br>
+            <span class='label'>communication-chat-bubble</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-communication-mail"></i>
+            </span>
+            <br>
+            <span class='label'>communication-mail</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-content-add"></i>
+            </span>
+            <br>
+            <span class='label'>content-add</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-content-filter-list"></i>
+            </span>
+            <br>
+            <span class='label'>content-filter-list</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-content-report-gmailerrorred"></i>
+            </span>
+            <br>
+            <span class='label'>content-report-gmailerrorred</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-content-waves"></i>
+            </span>
+            <br>
+            <span class='label'>content-waves</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-device-data-usage"></i>
+            </span>
+            <br>
+            <span class='label'>device-data-usage</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-editor-attach-money"></i>
+            </span>
+            <br>
+            <span class='label'>editor-attach-money</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-editor-bar-chart"></i>
+            </span>
+            <br>
+            <span class='label'>editor-bar-chart</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-editor-show-chart alt"></i>
+            </span>
+            <br>
+            <span class='label'>editor-show-chart alt</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-editor-show-chart"></i>
+            </span>
+            <br>
+            <span class='label'>editor-show-chart</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-file-attachment"></i>
+            </span>
+            <br>
+            <span class='label'>file-attachment</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-image-add-a-photo"></i>
+            </span>
+            <br>
+            <span class='label'>image-add-a-photo</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-image-camera"></i>
+            </span>
+            <br>
+            <span class='label'>image-camera</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-image-edit"></i>
+            </span>
+            <br>
+            <span class='label'>image-edit</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-car"></i>
+            </span>
+            <br>
+            <span class='label'>maps-car</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-compass"></i>
+            </span>
+            <br>
+            <span class='label'>maps-compass</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-delivery-shipping"></i>
+            </span>
+            <br>
+            <span class='label'>maps-delivery-shipping</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-directions-transit"></i>
+            </span>
+            <br>
+            <span class='label'>maps-directions-transit</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-directions"></i>
+            </span>
+            <br>
+            <span class='label'>maps-directions</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-hotel"></i>
+            </span>
+            <br>
+            <span class='label'>maps-hotel</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-layers"></i>
+            </span>
+            <br>
+            <span class='label'>maps-layers</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-local-bank"></i>
+            </span>
+            <br>
+            <span class='label'>maps-local-bank</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-local-gas-station"></i>
+            </span>
+            <br>
+            <span class='label'>maps-local-gas-station</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-local-pharmacy"></i>
+            </span>
+            <br>
+            <span class='label'>maps-local-pharmacy</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-map-active"></i>
+            </span>
+            <br>
+            <span class='label'>maps-map-active</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-map-inactive"></i>
+            </span>
+            <br>
+            <span class='label'>maps-map-inactive</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-my-location"></i>
+            </span>
+            <br>
+            <span class='label'>maps-my-location</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-place"></i>
+            </span>
+            <br>
+            <span class='label'>maps-place</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-maps-restaurant"></i>
+            </span>
+            <br>
+            <span class='label'>maps-restaurant</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-arrow-back-ios"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-arrow-back-ios</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-arrow-down"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-arrow-down</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-arrow-forward"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-arrow-forward</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-check"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-check</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-close"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-close</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-expand-more"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-expand-more</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-menu"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-menu</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-navigation-more-horiz"></i>
+            </span>
+            <br>
+            <span class='label'>navigation-more-horiz</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-facebook"></i>
+            </span>
+            <br>
+            <span class='label'>social-facebook</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-group"></i>
+            </span>
+            <br>
+            <span class='label'>social-group</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-instagram"></i>
+            </span>
+            <br>
+            <span class='label'>social-instagram</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-notifications-none"></i>
+            </span>
+            <br>
+            <span class='label'>social-notifications-none</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-person-add"></i>
+            </span>
+            <br>
+            <span class='label'>social-person-add</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-person-disabled"></i>
+            </span>
+            <br>
+            <span class='label'>social-person-disabled</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-person-done"></i>
+            </span>
+            <br>
+            <span class='label'>social-person-done</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-person"></i>
+            </span>
+            <br>
+            <span class='label'>social-person</span>
+        </div>
+
+
+        <div class="preview">
+            <span class="inner">
+                <i class="icon-social-twitter"></i>
+            </span>
+            <br>
+            <span class='label'>social-twitter</span>
+        </div>
+
+
+</body>
+</html>

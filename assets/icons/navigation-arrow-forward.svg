@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation-arrow-forward</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M5.20874977,12.999993 L16.3787498,12.999993 L11.4987498,17.879993 C11.1087498,18.269993 11.1087498,18.909993 11.4987498,19.299993 C11.8887498,19.689993 12.5187498,19.689993 12.9087498,19.299993 L19.4987498,12.709993 C19.8887498,12.319993 19.8887498,11.689993 19.4987498,11.299993 L12.9187498,4.69999303 C12.7319182,4.51274035 12.4782674,4.40750742 12.2137498,4.40750742 C11.9492321,4.40750742 11.6955813,4.51274035 11.5087498,4.69999303 C11.1187498,5.08999303 11.1187498,5.71999303 11.5087498,6.10999303 L16.3787498,10.999993 L5.20874977,10.999993 C4.65874977,10.999993 4.20874977,11.449993 4.20874977,11.999993 C4.20874977,12.549993 4.65874977,12.999993 5.20874977,12.999993 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation-arrow-forward">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_navigation_arrow_forward_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

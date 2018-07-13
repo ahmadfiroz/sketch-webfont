@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>action-bolt</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M12.9072008,16.0517418 L15.2703483,11.3255885 L11.2789862,11.3255885 L11.2789862,7.84709534 L8.75932098,12.7557287 L12.9072008,12.7557287 L12.9072008,16.0517418 Z M10.9072008,21.215723 L10.9072008,14.7557287 L6.75657643,14.7557287 C6.17923394,14.7557287 5.78913767,14.1315746 6.07000698,13.6166476 L11.8122242,2.42868638 C12.1711127,1.69530538 13.2789862,1.96057085 13.2789862,2.78757495 L13.2789862,9.32558853 L17.2423643,9.32558853 C17.8197068,9.32558853 18.1941992,9.93413872 17.9445376,10.4490658 L12.3895666,21.5590077 C12.0150742,22.3079926 10.9072008,22.0427271 10.9072008,21.215723 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="action-bolt">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Path" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>social-notifications-none</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M19.2901711,17.04 L18.0001711,15.75 L18.0001711,10.75 C18.0001711,7.68 16.3601711,5.11 13.5001711,4.43 L13.5001711,3.75 C13.5001711,2.92 12.8301711,2.25 12.0001711,2.25 C11.1701711,2.25 10.5001711,2.92 10.5001711,3.75 L10.5001711,4.43 C7.63017109,5.11 6.00017109,7.67 6.00017109,10.75 L6.00017109,15.75 L4.71017109,17.04 C4.08017109,17.67 4.52017109,18.75 5.41017109,18.75 L18.5801711,18.75 C19.4801711,18.75 19.9201711,17.67 19.2901711,17.04 Z M16.0001711,16.75 L8.00017109,16.75 L8.00017109,10.75 C8.00017109,8.27 9.51017109,6.25 12.0001711,6.25 C14.4901711,6.25 16.0001711,8.27 16.0001711,10.75 L16.0001711,16.75 Z M12.0001711,21.75 C13.1001711,21.75 14.0001711,20.85 14.0001711,19.75 L10.0001711,19.75 C10.0001711,20.85 10.8901711,21.75 12.0001711,21.75 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-notifications-none">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_social_notifications_none_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

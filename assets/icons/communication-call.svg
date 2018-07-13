@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>communication-call</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M19.2036735,15.25 L16.6636735,14.96 C16.0536735,14.89 15.4536735,15.1 15.0236735,15.53 L13.1836735,17.37 C10.3536735,15.93 8.03367348,13.62 6.59367348,10.78 L8.44367348,8.93 C8.87367348,8.5 9.08367348,7.9 9.01367348,7.29 L8.72367348,4.77 C8.60367348,3.76 7.75367348,3 6.73367348,3 L5.00367348,3 C3.87367348,3 2.93367348,3.94 3.00367348,5.07 C3.53367348,13.61 10.3636735,20.43 18.8936735,20.96 C20.0236735,21.03 20.9636735,20.09 20.9636735,18.96 L20.9636735,17.23 C20.9736735,16.22 20.2136735,15.37 19.2036735,15.25 Z M6.54,5 C6.6,5.89 6.75,6.76 6.99,7.59 L5.79,8.79 C5.38,7.59 5.12,6.32 5.03,5 L6.54,5 Z M16.4,17.02 C17.25,17.26 18.12,17.41 19,17.47 L19,18.96 C17.68,18.87 16.41,18.61 15.2,18.21 L16.4,17.02 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="communication-call">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_communication_call_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

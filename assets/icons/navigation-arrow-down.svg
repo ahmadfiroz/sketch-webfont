@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation-arrow-down</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.000007,5.20875022 C11.000007,4.65875022 11.450007,4.20875022 12.000007,4.20875022 C12.550007,4.20875022 13.000007,4.65875022 13.000007,5.20875022 L13.000007,16.3787502 L17.890007,11.5087502 C18.280007,11.1187502 18.910007,11.1187502 19.300007,11.5087502 C19.4872596,11.6955817 19.5924926,11.9492326 19.5924926,12.2137502 C19.5924926,12.4782679 19.4872596,12.7319187 19.300007,12.9187502 L12.700007,19.4987502 C12.310007,19.8887502 11.680007,19.8887502 11.290007,19.4987502 L4.70000697,12.9087502 C4.31000697,12.5187502 4.31000697,11.8887502 4.70000697,11.4987502 C5.09000697,11.1087502 5.73000697,11.1087502 6.12000697,11.4987502 L11.000007,16.3787502 L11.000007,5.20875022 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation-arrow-down">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_navigation_arrow_down_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>action-search</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M15.755,14.255 L14.965,14.255 L14.685,13.985 C15.665,12.845 16.255,11.365 16.255,9.755 C16.255,6.165 13.345,3.255 9.755,3.255 C6.165,3.255 3.255,6.165 3.255,9.755 C3.255,13.345 6.165,16.255 9.755,16.255 C11.365,16.255 12.845,15.665 13.985,14.685 L14.255,14.965 L14.255,15.755 L19.255,20.745 L20.745,19.255 L15.755,14.255 Z M9.755,14.255 C7.265,14.255 5.255,12.245 5.255,9.755 C5.255,7.265 7.265,5.255 9.755,5.255 C12.245,5.255 14.255,7.265 14.255,9.755 C14.255,12.245 12.245,14.255 9.755,14.255 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="action-search">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_action_search_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

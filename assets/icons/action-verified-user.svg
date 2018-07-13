@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>action-verified-user</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.19,1.1725 L4.19,4.2825 C3.47,4.6025 3,5.3225 3,6.1125 L3,10.8125 C3,16.3625 6.84,21.5525 12,22.8125 C17.16,21.5525 21,16.3625 21,10.8125 L21,6.1125 C21,5.3225 20.53,4.6025 19.81,4.2825 L12.81,1.1725 C12.3,0.9425 11.7,0.9425 11.19,1.1725 Z M19,10.8125 C19,15.3325 16.02,19.5025 12,20.7425 C7.98,19.5025 5,15.3325 5,10.8125 L5,6.1125 L12,3.0025 L19,6.1125 L19,10.8125 Z M9.29,16.1025 L6.7,13.5125 C6.51274733,13.3256685 6.40751439,13.0720176 6.40751439,12.8075 C6.40751439,12.5429824 6.51274733,12.2893315 6.7,12.1025 C7.09,11.7125 7.72,11.7125 8.11,12.1025 L10,13.9825 L15.88,8.1025 C16.27,7.7125 16.9,7.7125 17.29,8.1025 C17.68,8.4925 17.68,9.1225 17.29,9.5125 L10.7,16.1025 C10.32,16.4925 9.68,16.4925 9.29,16.1025 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="action-verified-user">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_action_verified_user_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

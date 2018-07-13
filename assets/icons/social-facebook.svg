@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>social-facebook</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M16.4,5 L16.4,6.2 C16.4,6.75228475 15.9522847,7.2 15.4,7.2 L14,7.2 C13.448,7.2 13.2,7.848 13.2,8.4 L13.2,10.4 L14.6,10.4 C15.1522847,10.4 15.6,10.8477153 15.6,11.4 L15.6,12.6 C15.6,13.1522847 15.1522847,13.6 14.6,13.6 L13.2,13.6 L13.2,19 C13.2,19.5522847 12.7522847,20 12.2,20 L11,20 C10.4477153,20 10,19.5522847 10,19 L10,13.6 L8.6,13.6 C8.04771525,13.6 7.6,13.1522847 7.6,12.6 L7.6,11.4 C7.6,10.8477153 8.04771525,10.4 8.6,10.4 L10,10.4 L10,7.2 C10,5.4326888 11.4326888,4 13.2,4 L15.4,4 C15.9522847,4 16.4,4.44771525 16.4,5 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-facebook">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_social_facebook_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

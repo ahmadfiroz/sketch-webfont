@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation-expand-more</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M15.8749999,8.99999274 L11.9949999,12.8799927 L8.1149999,8.99999274 C7.92816838,8.81274007 7.67451755,8.70750713 7.4099999,8.70750713 C7.14548226,8.70750713 6.89183143,8.81274007 6.7049999,8.99999274 C6.3149999,9.38999274 6.3149999,10.0199927 6.7049999,10.4099927 L11.2949999,14.9999927 C11.6849999,15.3899927 12.3149999,15.3899927 12.7049999,14.9999927 L17.2949999,10.4099927 C17.6849999,10.0199927 17.6849999,9.38999274 17.2949999,8.99999274 C16.9049999,8.61999274 16.2649999,8.60999274 15.8749999,8.99999274 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation-expand-more">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_navigation_expand_more_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

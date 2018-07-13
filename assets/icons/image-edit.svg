@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>image-edit</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M3,17.4624856 L3,20.5024856 C3,20.7824856 3.22,21.0024856 3.5,21.0024856 L6.54,21.0024856 C6.67,21.0024856 6.8,20.9524856 6.89,20.8524856 L17.81,9.94248561 L14.06,6.19248561 L3.15,17.1024856 C3.05,17.2024856 3,17.3224856 3,17.4624856 Z M20.71,7.04248561 C21.1,6.65248561 21.1,6.02248561 20.71,5.63248561 L18.37,3.29248561 C18.1831685,3.10523293 17.9295176,3 17.665,3 C17.4004824,3 17.1468315,3.10523293 16.96,3.29248561 L15.13,5.12248561 L18.88,8.87248561 L20.71,7.04248561 Z M14.06,9.02 L14.98,9.94 L5.92,19 L5,19 L5,18.08 L14.06,9.02 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image-edit">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_image_edit_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

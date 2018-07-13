@@ -1,0 +1,15 @@
+{
+  "name": "icon-export",
+  "version": "1.0.0",
+  "description": "A project for exporting icons from sketch & creating webfont",
+  "scripts": {
+    "export": "sketchtool export slices icons.sketch --output=assets/icons/",
+    "create": "mkdir dist && icon-font-generator assets/icons/*.svg -o dist --height=1000",
+    "build": "npm run export && npm run create"
+  },
+  "author": "Ahmad Firoz",
+  "license": "MIT",
+  "devDependencies": {
+    "icon-font-generator": "^2.1.7"
+  }
+}

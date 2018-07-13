@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>action-shopping-basket</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M22,9.98 L17.21,9.98 L12.83,3.42 C12.64,3.14 12.32,3 12,3 C11.68,3 11.36,3.14 11.17,3.43 L6.79,9.98 L2,9.98 C1.45,9.98 1,10.43 1,10.98 C1,11.07 1.01,11.16 1.04,11.25 L3.58,20.52 C3.81,21.36 4.58,21.98 5.5,21.98 L18.5,21.98 C19.42,21.98 20.19,21.36 20.43,20.52 L22.97,11.25 L23,10.98 C23,10.43 22.55,9.98 22,9.98 Z M12,5.78 L14.8,9.98 L9.2,9.98 L12,5.78 Z M18.5,19.98 L5.51,19.99 L3.31,11.98 L20.7,11.98 L18.5,19.98 Z M12,13.98 C10.9,13.98 10,14.88 10,15.98 C10,17.08 10.9,17.98 12,17.98 C13.1,17.98 14,17.08 14,15.98 C14,14.88 13.1,13.98 12,13.98 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="action-shopping-basket">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_action_shopping_basket_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
