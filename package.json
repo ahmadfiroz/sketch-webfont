@@ -10,6 +10,7 @@
   "author": "Ahmad Firoz",
   "license": "MIT",
   "devDependencies": {
-    "icon-font-generator": "^2.1.7"
+    "icon-font-generator": "^2.1.7",
+    "hoek": "^4.2.1"
   }
 }
